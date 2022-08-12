@@ -1,0 +1,53 @@
+body{
+    background-color: aliceblue;
+}
+.main-containor{
+    background-color: white;
+  margin: auto;
+  width: 500px;
+    text-align: center;
+
+}
+.food-logo{
+    text-align: left;
+    padding-left: 60px;
+}
+h3.mypage{
+    border-top: 3px solid darkorange;
+    padding-top: 20px;
+    
+}
+.grid-container {
+    display: grid;
+    grid-template-columns:220px 220px;
+    grid-template-rows:auto auto auto ;
+    column-gap: 50px;
+    row-gap: 10px;
+}
+
+  button{
+    color:white;
+    background-color:darkorange;
+    border-radius: 10%;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    border-color: aliceblue;
+  }
+  .footer{
+    background-color: orange;
+    text-align: center;
+    font-size:20px ;
+    margin-top: 50px;
+    color:white;
+    padding:20px;
+  }
+  .footer_one{
+    font-size: 12px;
+    text-align: center;
+  }
+  p.one {
+    word-spacing: 50px;
+  }
+  

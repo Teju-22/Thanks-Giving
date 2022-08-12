@@ -8,6 +8,11 @@ body{
     text-align: center;
 
 }
+.contain{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+}
 .food-logo{
     text-align: left;
     padding-left: 60px;
@@ -47,7 +52,10 @@ h3.mypage{
     font-size: 12px;
     text-align: center;
   }
-  p.one {
+  .y{
+    text-decoration: none;
+    color: black;
+  }
+  .one{
     word-spacing: 50px;
   }
-  
